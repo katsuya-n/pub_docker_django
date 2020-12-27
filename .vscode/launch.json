@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Django",
+            "type": "python",
+            "request": "attach",
+            "port": 3000,
+            "host": "localhost",
+            "pathMappings": [
+                {
+                    "localRoot": "${workspaceRoot}",
+                    "remoteRoot": "/code"
+                }
+            ],
+            "django": true
+        }
+    ]
+}
