@@ -1,4 +1,4 @@
-# pub_docker_django
+# django3(docker) remote debug with vscode
 ## summary
 This is a standard django project. It has already completed [django tutorial part 1](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). Docker-compose is refer to [official docker quickstart](https://docs.docker.com/compose/django/).
 
