@@ -4,6 +4,9 @@ up:
 build:
 	docker-compose build
 
+stop:
+	docker-compose stop
+
 init-db:
 	mysql -u root -h 127.0.0.1 -P 3306 -ppassword -e "CREATE DATABASE django_sample"
 

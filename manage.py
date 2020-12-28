@@ -20,5 +20,5 @@ def main():
 
 
 if __name__ == '__main__':
-    ptvsd.enable_attach(address=('0.0.0.0', 3000))
+    # ptvsd.enable_attach(address=('0.0.0.0', 3000))
     main()
