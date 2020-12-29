@@ -3,7 +3,7 @@
 This is a standard django project.
 It has already completed [django tutorial part 1](https://docs.djangoproject.com/en/3.1/intro/tutorial01/).
 Docker-compose is refer to [official docker quickstart](https://docs.docker.com/compose/django/).
-In addition, **You can use remote debug with vscode**. Please check [this note](#remote-debug-with-vscode).
+In addition, **you can use remote debug with vscode**. Please check [this note](#remote-debug-with-vscode).
 
 ## version
 - mysql 5.7
