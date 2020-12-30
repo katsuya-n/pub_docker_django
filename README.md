@@ -5,6 +5,10 @@ It has already completed [django tutorial part 1](https://docs.djangoproject.com
 Docker-compose is refer to [official docker quickstart](https://docs.docker.com/compose/django/).
 In addition, **you can use remote debug with vscode**. Please check [this note](#remote-debug-with-vscode).
 
+#### more details(dev.to)
+
+[Remote Debug Django3(Docker) with VSCode](https://dev.to/katsuya_9/remote-debug-django3-docker-with-vscode-3k9c)
+
 ## version
 - mysql 5.7
 - python 3.9
